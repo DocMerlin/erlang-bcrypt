@@ -1,6 +1,6 @@
 {application,bcrypt,
              [{description,"An Erlang wrapper (NIF or port program) for the OpenBSD password scheme, bcrypt."},
-              {vsn,"0.5.0"},
+              {vsn,"0.5.1"},
               {registered,[bcrypt_sup,bcrypt_nif_worker,bcrypt_port_sup,
                            bcrypt_pool]},
               {mod,{bcrypt_app,[]}},
