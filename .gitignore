@@ -1,6 +1,5 @@
 *.beam
 ebin/*.beam
-ebin/bcrypt.app
 _build/
 priv/bcrypt
 priv/bcrypt_nif.so
